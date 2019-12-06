@@ -6,7 +6,6 @@ $ nano test.c
 $ gcc test.c
 $ cd ..
 $ nano dockerfile
-$ docker build -t abc
 --->write this in dockerfile--
 FROM ubuntu
 RUN mkdir dir
